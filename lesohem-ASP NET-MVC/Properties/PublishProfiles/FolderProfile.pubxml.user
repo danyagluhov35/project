@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\MyApp</_PublishTargetUrl>
+    <History>True|2023-03-27T14:20:02.5645019Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnetction">
+      <Value>Server=%28LocalDb%29\LocalDBDemo%3bDatabase=lesohem%3bTrusted_Connection=True%3bTrustServerCertificate=Yes</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="lesohem_ASP_NET_MVC.DataBase.lesohemContext">
+      <Value>Server=%28LocalDb%29\LocalDBDemo%3bDatabase=lesohem%3bTrusted_Connection=True%3bTrustServerCertificate=Yes</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

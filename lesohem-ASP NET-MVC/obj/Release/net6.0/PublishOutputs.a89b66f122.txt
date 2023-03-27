@@ -1,0 +1,41 @@
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\lesohem-ASP NET-MVC.exe
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\appsettings.Development.json
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\appsettings.json
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\lesohem-ASP NET-MVC.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\lesohem-ASP NET-MVC.runtimeconfig.json
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\lesohem-ASP NET-MVC.pdb
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.Data.SqlClient.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.EntityFrameworkCore.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.Identity.Client.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.IdentityModel.Logging.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.IdentityModel.Protocols.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.IdentityModel.Tokens.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Microsoft.Win32.SystemEvents.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\Newtonsoft.Json.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\System.Configuration.ConfigurationManager.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\System.Drawing.Common.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\System.Runtime.Caching.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\System.Security.Permissions.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\System.Windows.Extensions.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\deni3\source\repos\lesohem-ASP NET-MVC\app\lesohem-ASP NET-MVC.deps.json
